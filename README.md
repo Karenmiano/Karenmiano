@@ -1,7 +1,7 @@
 [![MasterHead](https://images.app.goo.gl/JL4XTb31FkhNsfki6)]
 <h1 align="center">Hello world👋, I'm Karen Miano</h1>
 <h3 align="center">Syntax Sorceress in Training🧝‍♂️</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk"> 
+<img align="right" alt="Coding" width="400" src="https://www.amylee.fr/wp-content/uploads/2018/09/sarah-working-on-computer.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karenmiano&label=Profile%20views&color=0e75b6&style=flat" alt="karenmiano" /> </p> 
 
