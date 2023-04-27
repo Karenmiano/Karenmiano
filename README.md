@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/JL4XTb31FkhNsfki6)]
+[![MasterHead](https://th.bing.com/th/id/R.cee4146156d67201dd74ec748595d410?rik=mAtShYUjmem9Vg&pid=ImgRaw&r=0)]
 <h1 align="center">Hello world👋, I'm Karen Miano</h1>
 <h3 align="center">Syntax Sorceress in Training🧝‍♂️</h3>
 <img align="right" alt="Coding" width="400" src="https://www.amylee.fr/wp-content/uploads/2018/09/sarah-working-on-computer.gif"> 
