@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello world👋, I'm Karen Miano</h1>
-<h3 align="center">Coding Rookie in training</h3>
+<h3 align="center">Coding Rookie in training👮‍♀️</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.d4b0936f300957f9e96b6dcb40041c28?rik=TMF69je6zBrb4w&riu=http%3a%2f%2fwww.cartoonbucket.com%2fwp-content%2fuploads%2f2015%2f07%2fAnime-Typing-In-Computer.gif&ehk=%2fuUhMW1M7LTRIvXg8OWTKCR1n9IoWkNK1igokCXhBkE%3d&risl=&pid=ImgRaw&r=0"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karenmiano&label=Profile%20views&color=0e75b6&style=flat" alt="karenmiano" /> </p> 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mianokaren1798@gmail.com** 
 
-- ⚡ Fun fact **I love lentils** 
+- ⚡ Fun fact **I love lentils🍵** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
