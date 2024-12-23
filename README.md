@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karenmiano&label=Profile%20views&color=0e75b6&style=flat" alt="karenmiano" /> </p> 
 
-- 2023 to present - **Student at Alx SWE program** 
-
-- 🌱 I’m currently learning **Software Engineering**  
-
-- 📫 How to reach me **mianokaren1798@gmail.com** 
+- 🌱 I’m currently learning **Software Engineering**
+  
+- 📫 Reach me here: **mianokaren1798@gmail.com** 
 
 - ⚡ Fun fact **I love lentils🍵** 
 
