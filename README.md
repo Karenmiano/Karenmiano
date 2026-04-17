@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karenmiano&label=Profile%20views&color=0e75b6&style=flat" alt="karenmiano" /> </p> 
 
-- 🌱 I’m currently learning **Software Engineering**
+- 👩‍💻 I’m a Software Developer**
   
 - 📫 Reach me here: **mianokaren1798@gmail.com** 
 
